@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.whooktown",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Data & Storage"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://whooktown.com/docs/api"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://whooktown.com/docs/n8n"
+			}
+		]
+	}
+}
